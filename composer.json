@@ -1,0 +1,22 @@
+{
+  "name": "faleki/laravel-base-resources",
+  "description": "Este projeto pretende facilitar e acelerar a criação de projetos em Laravel.",
+  "version": "0.0.1",
+  "type": "library",
+  "require": {
+    "laravel/laravel": "^9.3"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Faleki\\LaravelBaseResources\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Filipe Levandovski",
+      "email": "filipelevandovski@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}
