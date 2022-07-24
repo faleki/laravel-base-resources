@@ -1,7 +1,7 @@
 {
   "name": "faleki/laravel-base-resources",
   "description": "Este projeto pretende facilitar e acelerar a criação de projetos em Laravel.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "library",
   "require": {
     "laravel/laravel": "^9.3"
